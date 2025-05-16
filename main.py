@@ -68,7 +68,7 @@ async def show_random_emojis(message):
 OWNER_ID = 7534723821 # Replace with the actual owner's user ID
 
 # List of sudo users (initially empty or pre-populated)
-SUDO_USERS = [7534723821,8175053386]
+SUDO_USERS = [7534723821,8175053386,7073930285]
 
 AUTH_CHANNEL = -1002282375939
 
